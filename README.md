@@ -1,6 +1,6 @@
 # FCSC 2020 Xoring Networks (Baby)
 
-Nous vous proposons l’étude des réseaux de XOR (Xoring Networks) et le problème XNP associé. Plus d’informations dans le README.md.
+Nous vous proposons l’étude des réseaux de XOR (Xoring Networks) et le problème XNP associé. Plus d’informations dans le [DETAILS.md](DETAILS.md).
 
 Note : Cette version propose des problèmes de petites dimensions.
 
