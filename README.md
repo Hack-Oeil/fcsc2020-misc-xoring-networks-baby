@@ -23,7 +23,7 @@ Origine : [Xoring Networks (Baby)](https://hackropole.fr/fr/challenges/misc/fcsc
 
 
 #### tentez 
-> nc xoring-networks-baby.cyrhades.com:4000
+> nc xoring-networks-baby.cyrhades.fr:4000
 
 
 -----------
