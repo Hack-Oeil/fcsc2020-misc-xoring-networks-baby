@@ -13,7 +13,7 @@ Une version plus complexe de cette épreuve est disponible ici : Xoring Networks
 ![instance_solution.png](instance_solution.png)
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Xoring Networks (Baby)](https://hackropole.fr/fr/challenges/misc/fcsc2020-misc-xoring-networks-baby/)
 
